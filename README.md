@@ -33,16 +33,3 @@
 * 6 - Run django server:
       
       python manage.py runserver
-
-## Screens
-#### Home Page
-![Home](./images/home.png)
-
-#### Login Page
-![Login](./images/login.png)
-
-#### Cart Page
-![Cart](./images/cart.png)
-
-#### Checkout Page
-![Checkout](./images/checkout.png)
